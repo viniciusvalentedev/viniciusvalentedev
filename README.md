@@ -10,7 +10,7 @@
 
 <div align="center">
 
-🌱 Hi! I'm **Vinicius**, a Computer Science student passionate about technology and software development.  
+ Hi! I'm **Vinicius**, a Computer Science student passionate about technology and software development.  
 I'm currently focused on **Python**, programming fundamentals, logic, and building small but well-structured projects.
 
 🎯 My goal is to grow as a developer, gain real-world experience, and continuously improve my coding and problem-solving skills.
