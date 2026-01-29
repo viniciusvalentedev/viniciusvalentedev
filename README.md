@@ -36,7 +36,7 @@ I'm currently focused on **Python**, programming fundamentals, logic, and buildi
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,mysql" />
 </div>
 
 <br/>
