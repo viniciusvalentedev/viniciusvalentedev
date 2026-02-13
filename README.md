@@ -3,14 +3,14 @@
 </h1>
 
 <h3 align="center">
-  Computer Science Student • Python Developer • Always Learning
+  Software Engineering student • Python Developer • Always Learning
 </h3>
 
 <br/>
 
 <div align="center">
 
- Hi! I'm **Vinicius**, a brazilian Computer Science student (1st Semester) passionate about technology and software development.  
+ Hi! I'm **Vinicius**, a brazilian software engineering student (1st Semester) passionate about technology and software development.  
 I'm currently focused on **Python**, programming fundamentals, logic, and building small but well-structured projects.
 
 🎯 My goal is to grow as a developer, gain real-world experience, and continuously improve my coding and problem-solving skills.
