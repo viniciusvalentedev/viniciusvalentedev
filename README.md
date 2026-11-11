@@ -11,8 +11,7 @@
 <div align="center">
 
  Hi! I'm **Vinicius**, a brazilian software engineering student (2nd Semester) passionate about technology and software development.  
-Currently building **Folyo**, an online course platform (web development, payments, subscriptions)., programming fundamentals, logic, and building small but well-structured projects.
-
+Currently building **Folyo**, an online course platform (web development, payments, subscriptions).
 My goal is to grow as a developer, gain real-world experience, and continuously improve my coding and problem-solving skills.
 
 I believe in learning by doing — every project here represents a step forward in my journey.
