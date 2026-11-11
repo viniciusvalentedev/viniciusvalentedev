@@ -34,10 +34,9 @@ I believe in learning by doing — every project here represents a step forward 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=html,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,supabase,vercel,aws,git" />
 </div>
-
 <br/>
 <hr/>
